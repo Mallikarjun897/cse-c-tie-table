@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./style.css" />
-  <title>CSE-B Class Timing</title>
+  <title>CSE-C Class Timing</title>
   <!-- <script defer src="./joinclass.js"></script> -->
   <link rel="shortcut icon" href="favicon.png" />
   <link rel="apple-touch-icon" href="favicon.png" />
@@ -17,7 +17,7 @@
 <body>
   <!-- <div class="current-container">
       <h3>00000</h3>
-      <h1>CSE-B Current Class</h1>
+      <h1>CSE-C Current Class</h1>
       <div class="pname">NONE</div>
     </div> -->
 
